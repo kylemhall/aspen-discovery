@@ -3,7 +3,7 @@
   - Administrators
   - Library Administration
   - Location Administration
-- [Advanced Search](/Admin/HelpManual?page=Advanced%20Search)
+- [Advanced Search](Admin/HelpManual?page=Advanced%20Search)
 - Aspen API
 - Author pages
 - Browsing
